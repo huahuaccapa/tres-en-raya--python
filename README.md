@@ -34,4 +34,4 @@ Para ejecutar este proyecto, asegúrate de tener instalado **Python 3.x** y la l
    Si aún no tienes el repositorio, clónalo usando el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu_usuario/tres-en-raya-minimax.git
+   https://github.com/huahuaccapa/tres-en-raya--python.git
